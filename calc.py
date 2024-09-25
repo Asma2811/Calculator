@@ -122,3 +122,4 @@ for (text, bg_color, fg_color) in buttons:
 # Running the application
 root.mainloop()
 
+#This is the end of file
